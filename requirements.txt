@@ -1,0 +1,13 @@
+ultralytics>=8.3.144
+torch>=2.6.0
+torchvision>=0.21.0
+numpy>=1.23.0
+opencv-python>=4.6.0
+matplotlib>=3.3.0
+pillow>=7.1.2
+pyyaml>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+tqdm>=4.64.0
+pandas>=1.1.4
+label-studio>=1.6.1
