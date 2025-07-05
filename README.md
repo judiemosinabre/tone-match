@@ -11,7 +11,14 @@ It uses **YOLOv11** to classify lipsticks and glosses into four undertone catego
 Trained on a custom dataset of 200+ images under various lighting conditions, the model detects undertones based on visual cues.  
 By automating this classification, ToneMatch simplifies product selection for beauty shoppers and professionals, promoting confident, personalized choices in cosmetics.
 
-## 🗂 Dataset & Model
+---
+
+### Sample Output
+![tonematch_preview](https://github.com/user-attachments/assets/e915da56-f2d9-46ec-9369-5451494338e8)
+
+---
+
+## Dataset & Model
 
 Due to file size and privacy constraints, the custom dataset and trained model used in this project are **not included** in this repository.
 
@@ -27,11 +34,7 @@ If you'd like to test or extend ToneMatch:
 
 ---
 
-### 📸 Sample Output
-
----
-
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - Google Colab (for training and experimentation)  
